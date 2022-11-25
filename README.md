@@ -1,17 +1,13 @@
-<h1 align="center">Hi 👋, I'm Philip Edekobi</h1>
-<h3 align="center">A passionate JavaScript developer from Nigeria</h3>
+<h1 align="center">Hi 👋, I'm Philip</h1>
+<h3 align="center">A software engineer who loves to code.</h3>
 
-- 🔭 I’m currently working on [NextGen Blog](#)(it's not hosted yet)
+- 🌱 I’m currently learning **Golang, System Design**
 
-- 🌱 I’m currently learning **Next.js, GraphQL**
+- 👯 I’m looking to collaborate on **interesting projects**
 
-- 👯 I’m looking to collaborate on **different JavaScript projects**
-
-- 💬 Ask me about **React, JavaScript, Web development**
+- 💬 Ask me about **Golang, JavaScript, Web development, System Design, Networking and other interesting topics**
 
 - 📫 How to reach me **philipedekobi@gmail.com**
-
-- ⚡ Fun fact **I like food.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
